@@ -1,4 +1,4 @@
-Trie Tree For Suggesting Names
+Trie Tree For Auto Completion
 Credit : GeekForGeeks
 
 Input Format For Instance:
